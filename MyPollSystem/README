@@ -1,0 +1,8 @@
+Written by Leon(Haoyu) Ding hd1062@nyu.edu, 3/13/2021
+
+Support all required commands and has self-adjust -k value if you don't assign one.
+Using linked list to store the data.
+Well commented. Memory gracefully released.
+Clarify the input file's path is crucial, please take it seriously.
+This project works fine on my device, would suffer a pipe error (can't construct more pipes) if the data size and the number of workers are both too large; Still trying to figure it out.
+(Recommend -k value as 100 for 1000000.csv)
